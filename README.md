@@ -2,6 +2,8 @@
 
 VS 2012 C# WinForms working copy. Form1 constructs ResourceManager("Localization.Localization") and OnLanguageChange sets CurrentUICulture/CurrentCulture from radio buttons (en-US, de-DE, fr-FR, pt-BR) then UpdateUIControls. Open `Localization.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
 
+Working copy from my Historical Dev folder.
+
 **Source last updated:** 2013-02-27  
 **Language:** C#  
 **Target:** v3.5  
