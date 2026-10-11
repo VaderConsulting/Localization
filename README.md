@@ -1,6 +1,6 @@
 # Localization
 
-VS 2012 C# WinForms working copy. Form1 constructs ResourceManager("Localization.Localization") and OnLanguageChange sets CurrentUICulture/CurrentCulture from radio buttons (en-US, de-DE, fr-FR, pt-BR) then UpdateUIControls. Open `Localization.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2012 C# WinForms working copy. Form1 constructs ResourceManager("Localization.Localization") and OnLanguageChange sets CurrentUICulture/CurrentCulture from radio buttons (en-US, de-DE, fr-FR, pt-BR) then UpdateUIControls. Open `Localization.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 Working copy from my Historical Dev folder.
 
@@ -11,7 +11,7 @@ Working copy from my Historical Dev folder.
 
 ## What it is
 
-VS 2012 C# WinForms working copy. Form1 constructs ResourceManager("Localization.Localization") and OnLanguageChange sets CurrentUICulture/CurrentCulture from radio buttons (en-US, de-DE, fr-FR, pt-BR) then UpdateUIControls. Open `Localization.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2012 C# WinForms working copy. Form1 constructs ResourceManager("Localization.Localization") and OnLanguageChange sets CurrentUICulture/CurrentCulture from radio buttons (en-US, de-DE, fr-FR, pt-BR) then UpdateUIControls. Open `Localization.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 ## Solution structure
 
